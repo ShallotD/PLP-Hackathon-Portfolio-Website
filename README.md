@@ -3,7 +3,7 @@
 Welcome to my personal portfolio repository! I'm a passionate software developer with experience in creating clean, scalable, and efficient applications. This repository contains the source code for my portfolio website, where you can explore my skills, projects, and get in touch with me.
 
 ## 🌐 Live Portfolio
-Check out my live portfolio here: <!--Aligning it soon!!!-->
+Check out my live portfolio here: --Aligning it soon!!!--
 
 ---
 
@@ -38,19 +38,19 @@ I’m excited about:
 
 Here are some of the key projects I've worked on:
 
-1. **[Project 1]<!--To upload the projects soon-->**
+1. **Project 1 <!--To upload the projects soon-->**
    - A web application built using Javascript, HTML and CSS that allows users to track their tasks efficiently.
    
-2. **[Project 2]<!--To upload the projects soon-->**
+2. **Project 2 <!--To upload the projects soon-->**
    - A hospital management system developed using Python, and PostgreSQL to allow users easily book appointment with the facility of their preference prior diagnosis.
    
-3. **[Project 3] <!--To upload the projects soon-->**
+3. **Project 3 <!--To upload the projects soon-->**
    - A machine learning model built with Python to predict house prices based on data features.
 
-4. **[Project 4] <!--To upload the projects soon-->** 
+4. **Project 4 <!--To upload the projects soon-->** 
    - A telemedicine application developed using Javascript, HTML and CSS.
 
-Check out my complete project list on [My GitHub] https://github.com/ShallotD?tab=repositories <!--To upload the projects soon-->.
+Check out my complete project list on My GitHub [https://github.com/ShallotD?tab=repositories] <!--To upload the projects soon-->.
 
 ---
 
