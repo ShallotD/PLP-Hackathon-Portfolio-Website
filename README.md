@@ -50,7 +50,7 @@ Here are some of the key projects I've worked on:
 4. **Project 4 <!--To upload the projects soon-->** 
    - A telemedicine application developed using Javascript, HTML and CSS.
 
-Check out my complete project list on My GitHub (https://github.com/ShallotD?tab=repositories) <!--To upload the projects soon-->.
+Check out my complete project list on My GitHub https://github.com/ShallotD?tab=repositories <!--To upload the projects soon-->.
 
 ---
 
